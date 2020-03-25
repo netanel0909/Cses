@@ -1,9 +1,12 @@
+#include<string>
+#include<iostream>
+#include<vector>
+#include<algorithm>
 
-#include"allProblems.h"
-
+#define MAX 10000000007
 using namespace std;
 
-int f1069()
+int main()
 {
 	string str;
 	cin >> str;

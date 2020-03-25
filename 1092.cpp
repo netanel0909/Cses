@@ -1,7 +1,11 @@
-#include"allProblems.h"
+#include<string>
+#include<iostream>
+#include<vector>
+#include<algorithm>
 
+#define MAX 10000000007
 using namespace std;
-int f1092()
+int main()
 {
     long long n, k;
     vector<long long> s1;

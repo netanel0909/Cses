@@ -1,10 +1,11 @@
+#include<string>
 #include<iostream>
 #include<vector>
 #include<algorithm>
 
+#define MAX 10000000007
 
-
-int f1068()
+int main()
 {
 	int n;
 	std::cin >> n;

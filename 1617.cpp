@@ -1,8 +1,11 @@
-#include"allProblems.h"
-#define MAX 1000000007
+#include<string>
+#include<iostream>
+#include<vector>
+#include<algorithm>
 
+#define MAX 10000000007
 using namespace std;
-int f1617()
+int main()
 {
 	long long int n = 1;
 	long long int k;

@@ -1,4 +1,0 @@
-﻿  1617.cpp
-C:\Users\netan\source\repos\cses\cses\1617.cpp(2,1): warning C4005: 'MAX': macro redefinition
-C:\Users\netan\source\repos\cses\cses\allProblems.h(8): message : see previous definition of 'MAX'
-  cses.vcxproj -> C:\Users\netan\source\repos\cses\Debug\cses.exe

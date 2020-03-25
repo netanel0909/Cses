@@ -1,11 +1,12 @@
+#include<string>
 #include<iostream>
 #include<vector>
 #include<algorithm>
 
-
+#define MAX 10000000007
 
 using namespace std;
-int f1083()
+int main()
 {
 	int n;
 	cin >> n;
